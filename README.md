@@ -12,7 +12,7 @@ Me chamo Jônatas Monteiro, tenho 19 anos e sou natural de Recife-PE.  Atualment
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="www.linkedin.com/in/jônatas-monteiro2006">
+    <a href="https://www.linkedin.com/in/j%C3%B4natas-monteiro2006/">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
