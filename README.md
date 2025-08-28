@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Jônatas Monteiro, tenho 19 anos e sou natural de Recife-PE.  Atualmente, estou cursando Engenharia da computação na Uninassau. Sou apaixonada por tecnologia e compartilho meu conhecimento através do do Instagram, com o perfil chamado "[jon_massis.tech](https://www.instagram.com/jon_massis.tech?igsh=MXJoZzdwY3BmeGo0Mg==)".
+Me chamo Jônatas Monteiro, tenho 19 anos e sou natural de Recife-PE.  Atualmente, estou cursando Engenharia da computação na Uninassau. Sou apaixonado por tecnologia e compartilho meu conhecimento através do do Instagram, com o perfil chamado "[jon_massis.tech](https://www.instagram.com/jon_massis.tech?igsh=MXJoZzdwY3BmeGo0Mg==)".
 
 <p align="left">
     <a href="https://www.instagram.com/jon_massis.tech">
